@@ -23,3 +23,7 @@ body {
 .wrapper {
     position: absolute;
 }
+
+#input {
+    position: absolute;
+}
